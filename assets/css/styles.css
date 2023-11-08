@@ -659,6 +659,7 @@ work__container bd-grid{
 
 .card_body {
     padding: 26px 20px 36px 20px;
+    color: #000000;
 }
 
 .card_title {
@@ -672,9 +673,10 @@ work__container bd-grid{
 }
 
 .card_body p {
-    font-weight: 400;
+    font-weight: 600;
     font-size: 18px;
     line-height: 1.7;
+
 
 }
 
